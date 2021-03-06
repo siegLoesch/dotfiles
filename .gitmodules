@@ -1,0 +1,3 @@
+[submodule ".local/share/nvim/site"]
+	path = .local/share/nvim/site
+	url = https://github.com/siegLoesch/dotfiles
