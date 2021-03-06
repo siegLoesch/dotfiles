@@ -1,0 +1,8 @@
+-isystem
+/usr/include/c++/10.2.0
+-isystem
+/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0
+-isystem
+/usr/local/include
+-isystem
+/usr/include
