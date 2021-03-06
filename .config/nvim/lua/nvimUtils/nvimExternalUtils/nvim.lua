@@ -1,0 +1,1 @@
+/home/loesch/Install/Neovim/luaConfigs/nvim-popterm/lua/popterm/nvim.lua

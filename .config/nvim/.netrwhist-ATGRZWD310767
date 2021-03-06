@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/loesch/OneDrive/Install/howTos'
+let g:netrw_dirhist_2='/home/loesch/OneDrive/openGl/basicInit/app/src'
+let g:netrw_dirhist_1='/home/u13m72/.config/configstore'

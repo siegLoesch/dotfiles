@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/mnt/debianRoot/home/loesch/Install/Cplusplus/cxx-modules-sandbox/duplicates'
+let g:netrw_dirhist_8='/mnt/debianRoot/home/loesch/OneDrive/dotfiles/.config/nvim/lua/nvimConfig/keyMaps'
+let g:netrw_dirhist_7='/mnt/debianRoot/home/loesch/OneDrive/doxyrest/frame/common'
+let g:netrw_dirhist_6='/mnt/debianRoot/home/loesch/OneDrive/dotfiles/.config/nvim/lua/nvimConfig/keyMaps'
+let g:netrw_dirhist_5='/mnt/debianRoot/home/loesch/OneDrive/workspaceC++/gpgpu/openCL/startTutorial/app'
+let g:netrw_dirhist_4='/home/loesch/.cpanm/work/1580541656.10995'
+let g:netrw_dirhist_3='/home/loesch/.cpanm/work/1580545101.13633'
+let g:netrw_dirhist_2='/home/loesch/.cpanm/work/1580545186.13685'
+let g:netrw_dirhist_1='/home/loesch/.cpanm/work/1580545294.13828'
+let g:netrw_dirhist_0='/home/loesch/.cpanm/work/1580541342.6525'

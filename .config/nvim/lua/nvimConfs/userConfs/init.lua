@@ -1,0 +1,21 @@
+--+-----------------------------------------------------------------------------
+--|
+--| @file:                  init.lua
+--| @brief:                 Highlight configuration
+--| @details:               Highlight configuration
+--| @author:                Siegfried Loesch
+--| @date: Created at:      2020-11-22 16:50:34
+--| @date: Last updated at: 2020-11-22 16:50:34
+--| @version:               1.0.0
+--| @copyright:             Distributed under the MIT License
+--|                         See: http://opensource.org/licenses/MIT
+--|
+--+-----------------------------------------------------------------------------
+--+-----------------------------------------------------------------------------
+--|                                                                             
+--|                                 Highlights                                  
+--|                                                                             
+--+-----------------------------------------------------------------------------
+vim.cmd("highlight ColorColumn ctermbg=darkgrey guibg=darkgrey")                
+-- Set for highlight of 'listchars'. gui=None: non bold                         
+vim.cmd("highlight Whitespace ctermfg=grey gui=None guifg=grey70")

@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/mnt/debBullseyeRoot/home/loesch/Install/ParaView/rkcommon'
+let g:netrw_dirhist_8='/root/.salomeTools/Applications'
+let g:netrw_dirhist_7='/opt/salomeMeca2020/appli_V2020.0.1_universal_universal/bin/salome/macros'
+let g:netrw_dirhist_6='/home/loesch/archAUR/userPackages/dolfinX/python-dijitso'
+let g:netrw_dirhist_5='/mnt/dataDisk/workspace/cs/fsi/example-ftrillaudp/__MACOSX'
+let g:netrw_dirhist_4='/mnt/debianRoot/home/loesch/Install/Salome/Salome_960/SALOME-9.6.0-MPI-CO7-SRC/PROJECT/applications'
+let g:netrw_dirhist_3='/mnt/debianRoot/home/loesch/Install/Salome/Salome_960/SALOME-9.6.0-MPI-CO7-SRC/SOURCES/CONFIGURATION'
+let g:netrw_dirhist_2='/mnt/debianRoot/home/loesch/OneDrive/dotfiles/.config/nvim/lua/nvimConfs/telescopeConf'
+let g:netrw_dirhist_1='/mnt/debianRoot/home/loesch/Install/Salome/Salome_960/SALOME-9.6.0-MPI-CO7-SRC/PROJECT/products/env_scripts'
+let g:netrw_dirhist_0='/mnt/debianRoot/home/loesch/Install/Salome/Salome_960/SALOME-9.6.0-MPI-CO7-SRC/PROJECT/applications'
