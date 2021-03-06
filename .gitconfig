@@ -1,0 +1,9 @@
+[includeIf "gitdir:/home/u13m72/"]
+  path = ~/OneDrive/dotfiles/.gitconfigWork
+[includeIf "gitdir:/home/loesch/"]
+  path = ~/OneDrive/dotfiles/.gitconfigHome
+# [gui]
+# 	recentrepo = /mnt/debianRoot/home/loesch/OneDrive/dotfiles/.local/share/nvim/site
+[user]
+	email = Siegfried.Loesch@gmx.at
+	name = Siegfried Loesch

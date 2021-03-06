@@ -1,0 +1,9 @@
+[user]
+	name = Siegfried Loesch
+	email = Siegfried.Loesch@gmx.at
+[gui]
+	recentrepo = /home/loesch/Install/vtkplotter
+[core]
+	editor = vim
+[commit]
+	template = /home/loesch/.gitmessage.txt
